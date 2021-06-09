@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>About KGAE</title>
+    <link href="/2021/06/09/About-KGAE/"/>
+    <url>/2021/06/09/About-KGAE/</url>
+    
+    <content type="html"><![CDATA[<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>欢迎来到<a href="https://mp.weixin.qq.com/s/urEqo_WQ56_W7Iitugt8ag">KGAE</a>实验室！</p><p>在这里可以教会你<a href="https://hexo.fluid-dev.com/">如何快速编辑一篇好看的文章</a>，对于配置一些好看的插件，可以参考<a href="https://hexo.fluid-dev.com/docs/guide">guide</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>实验室简介</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>说明</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2021/06/09/hello-world/"/>
+    <url>/2021/06/09/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>自然语言处理</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>知识图谱问答</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
