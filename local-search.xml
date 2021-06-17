@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Incorporating Actor-Critic in Monte Carlo tree search for symbolic regression</title>
+    <link href="/2021/06/09/Incorporating%20Actor-Critic%20in%20Monte%20Carlo%20tree%20search%20for%20symbolic/"/>
+    <url>/2021/06/09/Incorporating%20Actor-Critic%20in%20Monte%20Carlo%20tree%20search%20for%20symbolic/</url>
+    
+    <content type="html"><![CDATA[<p>Qiang Lu, Fan Tao, Shuo Zhou &amp; Zhiguang Wang.</p><p>Received: 29 May 2020 / Accepted: 11 December 2020.</p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Most traditional genetic programming methods that handle symbolic regression are random algorithms without memory and direction. They repeatedly search for the same or similar positions in the symbolic space, and easily fall into premature convergence. To overcome these shortcomings, we propose a new symbolic expression search algorithm based on the Monte Carlo tree search named SE-MCTS. It creates a tree to represent the symbolic space and remembers its visiting positions. Moreover, it incorporates two neural networks—Actor and Critic into the upper confidence bound to direct its search based on the given dataset features and decide when to use particle swarm optimization to find fitted constants in a mathematical expression. The experiment results show that SE-MCTS can discover more proper mathematical expressions than canonical genetic programming methods.</p><h2 id="More-info-about-thie-paper"><a href="#More-info-about-thie-paper" class="headerlink" title="More info about thie paper"></a>More info about thie paper</h2><p>Please see <a href="https://link.springer.com/article/10.1007/s00521-020-05602-2">Springer-Link</a></p><h2 id="Code-Link"><a href="#Code-Link" class="headerlink" title="Code Link"></a>Code Link</h2><p>Please see <a href="https://github.com/KGAE-CUP/SE-MCTS">SE-MCTS</a> on our GitHub.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>演化计算和符号回归</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>演化计算+深度学习</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>About KGAE</title>
     <link href="/2021/06/09/About-KGAE/"/>
     <url>/2021/06/09/About-KGAE/</url>
@@ -21,31 +46,6 @@
     <tags>
       
       <tag>说明</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2021/06/09/hello-world/"/>
-    <url>/2021/06/09/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    <categories>
-      
-      <category>自然语言处理</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>知识图谱问答</tag>
       
     </tags>
     
