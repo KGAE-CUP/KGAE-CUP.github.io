@@ -29,31 +29,6 @@
   
   
   <entry>
-    <title>Taylor Symbolic Regression</title>
-    <link href="/2021/08/30/Taylor%20Symbolic%20Regression/"/>
-    <url>/2021/08/30/Taylor%20Symbolic%20Regression/</url>
-    
-    <content type="html"><![CDATA[<p>Qiang Lu, Baihe He, and Qingyun Yang.</p><p>Received:  28 March 20xx / Accepted: 5 March 20xx.</p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><h2 id="More-info-about-thie-paper"><a href="#More-info-about-thie-paper" class="headerlink" title="More info about thie paper"></a>More info about thie paper</h2><p>Please see <a href="https://downloads.hindawi.com/journals/cin/2016/1021378.pdf">Link</a></p><h2 id="Code-Link"><a href="#Code-Link" class="headerlink" title="Code Link"></a>Code Link</h2><p>Please see <a href="https://github.com/KGAE-CUP">Code</a> on our GitHub.</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>Evolutionary computation and Symbolic regression</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Symbolic regression</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Trajectory Splicing</title>
     <link href="/2021/06/18/Trajectory-Splicing/"/>
     <url>/2021/06/18/Trajectory-Splicing/</url>
@@ -183,7 +158,7 @@
     <link href="/2021/06/09/About-KGAE/"/>
     <url>/2021/06/09/About-KGAE/</url>
     
-    <content type="html"><![CDATA[<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>谷歌学术：<a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=m61aeIAAAAAJ">https://scholar.google.com/citations?hl=zh-CN&amp;user=m61aeIAAAAAJ</a></p><p>邮箱：<a href="mailto:&#x6c;&#117;&#x71;&#x69;&#x61;&#110;&#103;&#64;&#x63;&#117;&#x70;&#x2e;&#101;&#100;&#117;&#x2e;&#x63;&#110;">&#x6c;&#117;&#x71;&#x69;&#x61;&#110;&#103;&#64;&#x63;&#117;&#x70;&#x2e;&#101;&#100;&#117;&#x2e;&#x63;&#110;</a>; <a href="mailto:&#x6c;&#117;&#113;&#105;&#97;&#x6e;&#x67;&#x74;&#111;&#x6e;&#x79;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x6c;&#117;&#113;&#105;&#97;&#x6e;&#x67;&#x74;&#111;&#x6e;&#x79;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></p><p>欢迎来到<a href="https://mp.weixin.qq.com/s/urEqo_WQ56_W7Iitugt8ag">KGAE</a>实验室！</p><p>在这里可以教会你<a href="https://hexo.fluid-dev.com/">如何快速编辑一篇好看的文章</a>，对于配置一些好看的插件，可以参考<a href="https://hexo.fluid-dev.com/docs/guide">guide</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>谷歌学术：<a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=m61aeIAAAAAJ">https://scholar.google.com/citations?hl=zh-CN&amp;user=m61aeIAAAAAJ</a></p><p>邮箱：<a href="mailto:&#x6c;&#117;&#x71;&#x69;&#97;&#110;&#103;&#x40;&#99;&#117;&#112;&#46;&#x65;&#x64;&#x75;&#x2e;&#x63;&#110;">&#x6c;&#117;&#x71;&#x69;&#97;&#110;&#103;&#x40;&#99;&#117;&#112;&#46;&#x65;&#x64;&#x75;&#x2e;&#x63;&#110;</a>; <a href="mailto:&#108;&#x75;&#113;&#105;&#x61;&#110;&#x67;&#116;&#111;&#110;&#x79;&#64;&#x67;&#109;&#97;&#105;&#108;&#46;&#x63;&#111;&#109;">&#108;&#x75;&#113;&#105;&#x61;&#110;&#x67;&#116;&#111;&#110;&#x79;&#64;&#x67;&#109;&#97;&#105;&#108;&#46;&#x63;&#111;&#109;</a></p><p>欢迎来到<a href="https://mp.weixin.qq.com/s/urEqo_WQ56_W7Iitugt8ag">KGAE</a>实验室！</p><p>在这里可以教会你<a href="https://hexo.fluid-dev.com/">如何快速编辑一篇好看的文章</a>，对于配置一些好看的插件，可以参考<a href="https://hexo.fluid-dev.com/docs/guide">guide</a></p>]]></content>
     
     
     <categories>
