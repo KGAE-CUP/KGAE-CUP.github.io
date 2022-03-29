@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Taylor Genetic Programming for Symbolic Regression</title>
+    <link href="/2022/04/13/Taylor%20Genetic%20Programming%20for%20Symbolic%20Regression/"/>
+    <url>/2022/04/13/Taylor%20Genetic%20Programming%20for%20Symbolic%20Regression/</url>
+    
+    <content type="html"><![CDATA[<p>Baihe He, Qiang Lu, Qingyun Yang, Jake Luo, and Zhiguang Wang.</p><p>Received:  24 March 2022 / Accepted: 13 April 2022.</p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>Genetic programming (GP) is a commonly used approach to solve symbolic regression (SR) problems. Compared with the machine learning or deep learning methods that depend on the pre-defined model and the training dataset for solving SR problems, GP is more focused on finding the solution in a search space. Although GP has good performance on large-scale benchmarks, it randomly transforms individuals to search results without taking advantage of the characteristics of the dataset.<br>So, the search process of GP is usually slow, and the final results could be unstable.<br>To guide GP by these characteristics, we propose a new method for SR, called Taylor genetic programming (TaylorGP). TaylorGP leverages a Taylor polynomial to approximate the symbolic equation that fits the dataset. It also utilizes the Taylor polynomial to extract the features of the symbolic equation: low order polynomial discrimination, variable separability, boundary, monotonic, and parity. GP is enhanced by these Taylor polynomial techniques. Experiments are conducted on three kinds of benchmarks: classical SR, machine learning, and physics. The experimental results show that TaylorGP not only has higher accuracy than the nine baseline methods, but also is faster in finding stable results.</p><h2 id="More-info-about-thie-paper"><a href="#More-info-about-thie-paper" class="headerlink" title="More info about thie paper"></a>More info about thie paper</h2><p>Please see <a href="https://downloads.hindawi.com/journals/cin/2016/1021378.pdf">Link</a></p><h2 id="Code-Link"><a href="#Code-Link" class="headerlink" title="Code Link"></a>Code Link</h2><p>Please see <a href="https://github.com/KGAE-CUP">Code</a> on our GitHub.</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>演化计算和符号回归</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>演化计算</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Symbolic Regression Net</title>
     <link href="/2021/08/30/Symbolic%20Regression%20Net/"/>
     <url>/2021/08/30/Symbolic%20Regression%20Net/</url>
@@ -105,8 +130,8 @@
   
   <entry>
     <title>Using genetic programming with prior formula knowledge to solve symbolic regression problem. Computational intelligence and neuroscience</title>
-    <link href="/2021/06/18/Using%20genetic%20programming%20with%20prior%20formula%20knowledge%20to%20solve%20symbolic%20regression%20problem.%20Computational%20intelligence%20and%20neuroscience%20-%20%E5%89%AF%E6%9C%AC/"/>
-    <url>/2021/06/18/Using%20genetic%20programming%20with%20prior%20formula%20knowledge%20to%20solve%20symbolic%20regression%20problem.%20Computational%20intelligence%20and%20neuroscience%20-%20%E5%89%AF%E6%9C%AC/</url>
+    <link href="/2021/06/18/Using%20genetic%20programming%20with%20prior%20formula%20knowledge%20to%20solve%20symbolic%20regression%20problem.%20Computational%20intelligence%20and%20neuroscience%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/"/>
+    <url>/2021/06/18/Using%20genetic%20programming%20with%20prior%20formula%20knowledge%20to%20solve%20symbolic%20regression%20problem.%20Computational%20intelligence%20and%20neuroscience%20-%20%E5%89%AF%E6%9C%AC%20-%20%E5%89%AF%E6%9C%AC/</url>
     
     <content type="html"><![CDATA[<p>Qiang Lu, Jun Ren, and Zhiguang Wang.</p><p>Received:  28 May 2015 / Accepted: 5 October 2015.</p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>A researcher can infer mathematical expressions of functions quickly by using his professional knowledge (called Prior Knowledge). But the results he finds may be biased and restricted to his research field due to limitation of his knowledge. In contrast, Genetic Programming method can discover fitted mathematical expressions from the huge search space through running evolutionary algorithms. And its results can be generalized to accommodate different fields of knowledge. However, since GP has to search a huge space, its speed of finding the results is rather slow. Therefore, in this paper, a framework of connection between Prior Formula Knowledge and GP (PFK-GP) is proposed to reduce the space of GP searching. The PFK is built based on the Deep Belief Network (DBN) which can identify candidate formulas that are consistent with the features of experimental data. By using these candidate formulas as the seed of a randomly generated population, PFK-GP finds the right formulas quickly by exploring the search space of data features. We have compared PFK-GP with Pareto GP on regression of eight benchmark problems. The experimental results confirm that the PFK-GP can reduce the search space and obtain the significant improvement in the quality of SR.</p><h2 id="More-info-about-thie-paper"><a href="#More-info-about-thie-paper" class="headerlink" title="More info about thie paper"></a>More info about thie paper</h2><p>Please see <a href="https://downloads.hindawi.com/journals/cin/2016/1021378.pdf">Link</a></p><h2 id="Code-Link"><a href="#Code-Link" class="headerlink" title="Code Link"></a>Code Link</h2><p>Please see <a href="https://github.com/KGAE-CUP">Code</a> on our GitHub.</p>]]></content>
     
@@ -158,7 +183,7 @@
     <link href="/2021/06/09/About-KGAE/"/>
     <url>/2021/06/09/About-KGAE/</url>
     
-    <content type="html"><![CDATA[<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>谷歌学术：<a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=m61aeIAAAAAJ">https://scholar.google.com/citations?hl=zh-CN&amp;user=m61aeIAAAAAJ</a></p><p>邮箱：<a href="mailto:&#108;&#x75;&#x71;&#105;&#97;&#110;&#x67;&#64;&#x63;&#x75;&#x70;&#x2e;&#101;&#x64;&#x75;&#46;&#99;&#x6e;">&#108;&#x75;&#x71;&#105;&#97;&#110;&#x67;&#64;&#x63;&#x75;&#x70;&#x2e;&#101;&#x64;&#x75;&#46;&#99;&#x6e;</a>; <a href="mailto:&#x6c;&#x75;&#113;&#105;&#97;&#x6e;&#x67;&#116;&#x6f;&#x6e;&#121;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;">&#x6c;&#x75;&#113;&#105;&#97;&#x6e;&#x67;&#116;&#x6f;&#x6e;&#121;&#x40;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#x6d;</a></p><p>欢迎来到<a href="https://mp.weixin.qq.com/s/urEqo_WQ56_W7Iitugt8ag">KGAE</a>实验室！</p><p>在这里可以教会你<a href="https://hexo.fluid-dev.com/">如何快速编辑一篇好看的文章</a>，对于配置一些好看的插件，可以参考<a href="https://hexo.fluid-dev.com/docs/guide">guide</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>谷歌学术：<a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=m61aeIAAAAAJ">https://scholar.google.com/citations?hl=zh-CN&amp;user=m61aeIAAAAAJ</a></p><p>邮箱：<a href="mailto:&#x6c;&#117;&#x71;&#105;&#97;&#x6e;&#x67;&#x40;&#x63;&#117;&#x70;&#x2e;&#x65;&#x64;&#117;&#x2e;&#99;&#x6e;">&#x6c;&#117;&#x71;&#105;&#97;&#x6e;&#x67;&#x40;&#x63;&#117;&#x70;&#x2e;&#x65;&#x64;&#117;&#x2e;&#99;&#x6e;</a>; <a href="mailto:&#x6c;&#117;&#x71;&#105;&#x61;&#x6e;&#103;&#116;&#x6f;&#110;&#x79;&#x40;&#x67;&#109;&#97;&#105;&#x6c;&#x2e;&#99;&#x6f;&#109;">&#x6c;&#117;&#x71;&#105;&#x61;&#x6e;&#103;&#116;&#x6f;&#110;&#x79;&#x40;&#x67;&#109;&#97;&#105;&#x6c;&#x2e;&#99;&#x6f;&#109;</a></p><p>欢迎来到<a href="https://mp.weixin.qq.com/s/urEqo_WQ56_W7Iitugt8ag">KGAE</a>实验室！</p><p>在这里可以教会你<a href="https://hexo.fluid-dev.com/">如何快速编辑一篇好看的文章</a>，对于配置一些好看的插件，可以参考<a href="https://hexo.fluid-dev.com/docs/guide">guide</a></p>]]></content>
     
     
     <categories>
