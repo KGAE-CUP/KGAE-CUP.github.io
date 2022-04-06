@@ -54,31 +54,6 @@
   
   
   <entry>
-    <title>Symbolic Regression Net</title>
-    <link href="/Symbolic%20Regression%20Net/"/>
-    <url>/Symbolic%20Regression%20Net/</url>
-    
-    <content type="html"><![CDATA[<p>Qiang Lu, Hu Xilei and Luo Yuanzhen .</p><p>Received:  28 October 20xx / Accepted: 28 October 20xx.</p><h2 id="Abstract"><a href="#Abstract" class="headerlink" title="Abstract"></a>Abstract</h2><p>A Symbolic Regression (SR) method called SRNet to mine hidden semantics of each network layer in Neural Network (Multi-Layer Perceptron). SRNet is an evolutionary computing algorithm, leveraging Multi-Chromosomes Cartesian Genetic Programming (MCCGP) to find mathmatical formulas $f_i(x)*w_i+b_i$ for each network layer, white-boxing the black box.</p><h2 id="More-info-about-thie-paper"><a href="#More-info-about-thie-paper" class="headerlink" title="More info about thie paper"></a>More info about thie paper</h2><p>Please see <a href="https://downloads.hindawi.com/journals/cin/2016/1021378.pdf">Link</a></p><h2 id="Code-Link"><a href="#Code-Link" class="headerlink" title="Code Link"></a>Code Link</h2><p>Please see <a href="https://github.com/KGAE-CUP/SRNet">Code</a> on our GitHub.</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>Evolutionary computation and Symbolic regression</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Symbolic regression</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Trajectory Splicing</title>
     <link href="/Trajectory-Splicing/"/>
     <url>/Trajectory-Splicing/</url>
